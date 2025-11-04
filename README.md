@@ -30,5 +30,8 @@ Find all patients admitted to the **‘Surgery’** service with a **satisfactio
 SELECT patient_id, name, age, satisfaction
 FROM patients
 WHERE service = 'surgery' AND satisfaction < 70;
+```
 
+Thank you [Indian Data Club](https://www.linkedin.com/company/indian-data-club/posts/?feedView=all) for starting this challenge and [DPDzero](https://www.linkedin.com/company/dpdzero/) the title sponsor of this challenge
 
+Connect with me on [LinkedIn](https://www.linkedin.com/posts/palak-patel-0711242a0_sqlwithidc-indiandataclub-dataanalytics-activity-7391432529515278336-2xib?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEiiCVUBy_p8ew-GJCFrX_Fd2dbsVwh8szw)
